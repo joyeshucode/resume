@@ -1,4 +1,5 @@
 # Tapas Tripathi
+
 **13X Salesforce Certified Solution Consultant & Application Architect**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tapas-tripathi)  
@@ -6,13 +7,13 @@
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:johndoe@example.com)  
 [![Trailhead](https://img.shields.io/badge/Trailhead-blue?style=flat-square&logo=salesforce)](https://www.salesforce.com/trailblazer/tapastripathi)
 
-* * *
+---
 
 ## 📝 Summary
 
 Innovative certified Salesforce Developer and Solution Architect with 9 years of transforming complex business needs into seamless technical solutions. Mastermind behind robust Salesforce architecture designs, dynamic integrations, and cutting-edge development projects. Versatile in leveraging JavaScript frameworks and modern UI/UX principles to enhance user experiences. Renowned for stellar communication skills and an unwavering team spirit, driving project success in diverse environments. Passionate about pioneering new strategies and solutions, eager to bring my expertise to an industry-leading organization.
 
-* * *
+---
 
 ## 🔧 Skills
 
@@ -24,14 +25,15 @@ Innovative certified Salesforce Developer and Solution Architect with 9 years of
 - **Project Management Tools**: Jira, Trello
 - **Backend Languages**: Java, Python, C, C#
 - **Databases**: Oracle, MySQL, Postgres, MongoDB
-* * *
+
+---
 
 ## 💼 Experience
 
 ### Business and Integration Architecture Manager
 
 **Accenture Nordics** — Helsinki, Finland  
-*December, 2022 – Present*
+_December, 2022 – Present_
 
 - Break the functional requirements into the technical design with Salesforce Industries CPQ(Vlocity Industries for Insurance).
 - Taking lead in identifying and mitigating the solution gaps arises.
@@ -42,7 +44,7 @@ Innovative certified Salesforce Developer and Solution Architect with 9 years of
 ### Senior Salesforce Developer
 
 **WithSecure Oyj** — Helsinki, Finland  
-*August, 2020 - December, 2022*
+_August, 2020 - December, 2022_
 
 - Research and develop the app-exchange product with latest salesforce features for the end-customers.
 - Analyse and resolve customer issues related to product and functionalities.
@@ -54,7 +56,7 @@ Innovative certified Salesforce Developer and Solution Architect with 9 years of
 ### Senior Salesforce Developer
 
 **Capgemini Finland Oy** — Helsinki, Finland  
-*August, 2019 – August, 2020*
+_August, 2019 – August, 2020_
 
 - Requirement analysis, designing the approach using Vlocity CPQ for Telco and Salesforce, to move the product stack from legacy CRM to Salesforce.
 - Configuring Vlocity rules, Vlocity OmniScript and Dataraptor Designing, impact analysis.
@@ -65,7 +67,7 @@ Innovative certified Salesforce Developer and Solution Architect with 9 years of
 ### Systems Engineer
 
 **Tata Consultancy Services Ltd.** — Helsinki, Finland / Hyderabad, India  
-*September 2015 – May 2019*
+_September 2015 – May 2019_
 
 - Worked for various clients from different industries(Telco, Financial, Insurance) and converting their business requirement in to Salesforce solutions.
 - Development of the Customer community pages with SPA frameworks.
@@ -75,15 +77,15 @@ Innovative certified Salesforce Developer and Solution Architect with 9 years of
 - Participated in Agile development sprints and daily stand-ups.
 - Development of Telco solutions using CloudSense CPQ.
 
-* * *
+---
 
 ## 🎓 Education
 
 **Bachelor of Technology in Computer Science & Engineering**  
 Narula Institute Of Technology — Kolkata, West Bengal, India  
-*Graduated: May 2015*
+_Graduated: May 2015_
 
-* * *
+---
 
 ## 🏆 Certifications
 
@@ -96,12 +98,12 @@ Narula Institute Of Technology — Kolkata, West Bengal, India
 - Salesforce Certified Platform App Builder
 - Salesforce Certified Integration Architect
 - Salesforce Certified Platform Developer II
-- Salesforce Certified Platform Developer 
+- Salesforce Certified Platform Developer
 - Salesforce Certified Administrator
 - Vlocity Certified Order Management Developer.
 
-* * *
+---
 
 ## 📄 Download CV
 
-[![Download CV](https://img.shields.io/badge/Download%20CV-blue?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/johndoe/cv/raw/main/John_Doe_CV.pdf)
+[![Download CV](https://img.shields.io/badge/Download%20CV-blue?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/joyeshucode/resume/raw/main/src/public/Tapas%20Tripathi_Salesforce_Developer_Latest.pdf)
